@@ -1,0 +1,10 @@
+ My [[Network Architecture]] 
+
+| AZ ID        | Region           | Geography    | subnet/PUB   | Subnet/Priv   |
+| ------------ | ---------------- | ------------ | ------------ | ------------- |
+| `usw2-az1`   | `us-west-2`      | Oregan       | 10.13.1.0/24 | 10.13.13.0/24 |
+| `afs1-az1`   | `af-south-1`     | South Africa | 10.13.2.0/24 | 10.13.16.0/24 |
+| `af-south-1` | `ap-southeast-1` | Singapore    | 10.13.3.0/24 | 10.13.19.0/24 |
+| `cac1-az1`   | `ca-central-1`   | Canada       | 10.13.4.0/24 | 10.13.23.0/24 |
+| `apne1-az1`  | `ap-northeast-1` | Japan        | 10.13.5.0/24 | 10.13.26.0/24 |
+| `apse7-az1`  | `ap-southeast-7` | Thailand     | 10.13.6.0/24 | 10.13.29.0/24 |
