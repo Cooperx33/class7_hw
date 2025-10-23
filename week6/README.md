@@ -72,10 +72,10 @@ Verify if Terraform is installed
                                                   CREATE YOUR PROJECT IN LOCAL REPOSITORY ( YOUR COMPUTER )
 
   cd C:\Users\computername\Documents\TheoWAF\class7\AWS\Homework\ *this is your path to follow*
-mkdir week-6-homework *cmd to make directory (folder) *
-cd week-6-homework *navigate into said directory (folder) *
-touch 0-authentication.tf 1-vpc.tf A-backend.tf *creates a file*
-code . *opens VSCODE *
+- mkdir week-6-homework *cmd to make directory (folder) *
+- cd week-6-homework *navigate into said directory (folder) *
+- touch 0-authentication.tf 1-vpc.tf A-backend.tf *creates a file*
+- code . *opens VSCODE *
 
                                                               Important Notice
   You will need to run the ( .gitignore ) cmd found in [Aaron Mcdonals repo](https://github.com/aaron-dm-mcdonald/Class7-notes/blob/main/102125/.gitignore)
@@ -84,16 +84,16 @@ code . *opens VSCODE *
 
                                                             Initialize and Validate CMD's
 
-terraform init          # Initialize Terraform Configuration
-terraform fmt           # Format Your Terraform Code
-terraform validate      # Validate Your Terraform Syntax Code
-terraform plan          # Plan Your Terraform Configuration
-terraform destroy       # Destroy Your Terraform Resources
+- terraform init          # Initialize Terraform Configuration
+- terraform fmt           # Format Your Terraform Code
+- terraform validate      # Validate Your Terraform Syntax Code
+- terraform plan          # Plan Your Terraform Configuration
+- terraform destroy       # Destroy Your Terraform Resources
 
                                                                 Extra Important GIT tips
 
-git init
-git add .
-git commit -m "initial commit"
-git branch -M main
-git push -u origin main
+- git init
+- git add .
+- git commit -m "initial commit"
+- git branch -M main
+- git push -u origin main
